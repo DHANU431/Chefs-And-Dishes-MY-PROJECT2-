@@ -1,6 +1,3 @@
-Chefs and Dishes – README
-Overview
-
 Chefs and Dishes is a responsive web project that highlights famous chefs and their signature dishes through an interactive and visually appealing interface.
 
 Features
